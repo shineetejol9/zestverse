@@ -1,7 +1,7 @@
 // src/components/Login.jsx
 import React from "react";
 import "animate.css";
-import starsImg from "../assets/img/stars2.png";
+import starsImg from "/img/sky.png";
 import Snowfall from "./Snowfall";
 
 function Login() {
