@@ -2,7 +2,7 @@
 import React from "react";
 import "animate.css";
 import starsImg from "../assets/img/stars2.png";
-import Snowfall from "./snowfall";
+import Snowfall from "./Snowfall";
 
 function Login() {
   return (
